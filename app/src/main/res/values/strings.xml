@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Список задач</string>
+    <string name="app_name">NewsWave</string>
+    <string name="article_image_description">Изображение новости</string>
+    <string name="news_load_error">Не удалось загрузить новости</string>
+    <string name="article_link_missing">Ссылка на статью недоступна</string>
 </resources>

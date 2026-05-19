@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyList"
+rootProject.name = "NewsWave"
 include(":app")

@@ -1,8 +1,26 @@
 R_DEF: Internal format may change without notice
 local
+color news_accent
+color news_background
+color news_image_placeholder
+color news_text_primary
+color news_text_secondary
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id articleDateTextView
+id articleImageView
+id articleSourceTextView
+id articleSummaryTextView
+id articleTitleTextView
+id newsRecyclerView
+id swipeRefreshLayout
+layout activity_main
+layout item_article
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string article_image_description
+string article_link_missing
+string news_load_error
 style Theme.MyList
+style Theme.NewsWave

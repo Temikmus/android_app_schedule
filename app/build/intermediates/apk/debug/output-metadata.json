@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.mylist",
+  "applicationId": "com.example.newswave",
   "variantName": "debug",
   "elements": [
     {
